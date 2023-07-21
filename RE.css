@@ -1,0 +1,150 @@
+#Cardsection{
+    background-color: black;
+    color:white;
+}
+#Cardsection #news{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#Cardsection #news h1{
+    font-size: 25px;
+}
+#Cardsection #cards{
+    display:flex;
+}
+#Cardsection #cards div{
+    width:25%;
+    height:241px;
+    overflow:hidden;
+}
+#Cardsection #cards div img{
+    width:100%;
+}
+#Cardsection #cards div p{
+    position:relative;
+    top:-58px;
+    padding-left:20px;
+    font-weight:600;
+    font-size: 15px;
+}
+#Cardsection #cards div img:hover{
+    transform:scale(1.2);
+    transition: 2s;
+}
+#Headersection1{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+#Headersection1 ul{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    list-style-type: none;
+}
+.super:hover{
+    color:red;
+}
+#Imagesection img{
+    width:100%;
+}
+#Headersection2{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+ #Headersection2 #header2{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    list-style-type: none;
+}
+#Imagesection2 img{
+    width:100%;
+}
+#Headersection3{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+#Headersection3 #header3{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    list-style-type: none;
+}
+#Imagesection3 img{
+    width:100%;
+}
+#Headersection4{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+#Headersection4 #header4{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    list-style-type: none;
+}
+#Imagesection4 img{
+    width:100%;
+}
+#Headersection5{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+#Headersection5 #header5{
+    display:flex;
+    align-items: center;
+    gap:20px;
+    list-style-type: none;
+}
+#Imagesection5 img{
+    width:100%;
+}
+#Headersection6{
+    background-color: #212121;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 1px;
+    text-align: center;
+}
+#Headersection6 h3{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+}
+/* #auto{
+    display:flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+    overflow: hidden;
+
+}
+ #pop #pure{
+    width: 25%;
+    height:241px;
+}   
+#pop #rider{
+    width:25%;
+    height:241px;
+}
+#pop #classic{
+    width:25%;
+    height:241px;
+}
+#pop #vibe{
+    width:25%;
+    height:241px;
+} */
